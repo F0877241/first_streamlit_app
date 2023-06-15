@@ -1,3 +1,6 @@
+# requirements.txt
+snowflake-connector-python
+
 import streamlit
 
 streamlit.title('My Parents New Healthy Diner')
